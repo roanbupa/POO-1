@@ -1,0 +1,5 @@
+C:\Users\tickantel\Desktop\PrimerEjemplo\PrimerObligatorio\PrimerObligatorio\bin\Debug\PrimerObligatorio.exe
+C:\Users\tickantel\Desktop\PrimerEjemplo\PrimerObligatorio\PrimerObligatorio\bin\Debug\PrimerObligatorio.pdb
+C:\Users\tickantel\Desktop\PrimerEjemplo\PrimerObligatorio\PrimerObligatorio\obj\x86\Debug\PrimerObligatorio.exe
+C:\Users\tickantel\Desktop\PrimerEjemplo\PrimerObligatorio\PrimerObligatorio\obj\x86\Debug\PrimerObligatorio.pdb
+C:\Users\tickantel\Desktop\PrimerEjemplo\PrimerObligatorio\PrimerObligatorio\obj\x86\Debug\PrimerObligatorio.csprojResolveAssemblyReference.cache
